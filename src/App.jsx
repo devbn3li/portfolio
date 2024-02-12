@@ -26,7 +26,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mohamed Ali",
-  title: "Full Stack Developer",
+  title: "Software Engineer",
   email: "fuswhc@gmail.com",
   gitHub: "devbn3li",
   instagram: "devbn3li",
